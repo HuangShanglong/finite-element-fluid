@@ -3,7 +3,7 @@
 Finite Element Method approximations to Fluid Dynamics
 
 
-Convection - Diffusion > 1D_Steady_Solver.py :
+Convection - Diffusion > solver.py :
 Solver for 1D Steady Convection-Diffusion problems using Standard / Petrov Galerkin methods and 3-point Linear / Quadratic elements.
 Velocity, Diffusion Coefficient, and Source can be set as functions of the form : a*x^2 + b*x + c + d/x.
 Main inputs are :
